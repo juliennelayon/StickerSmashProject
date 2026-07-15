@@ -22,7 +22,7 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#a4f5f1",
+    backgroundColor: "#a0d8ee",
     alignItems: "center",
   },
   imageContainer: {
